@@ -1,0 +1,24 @@
+membership
+A,B,C,D,S,T
+a,b
+T
+T -> A B
+T -> X B
+T -> B A
+T -> S S
+T -> A C
+T -> B D
+T -> epsilon
+S -> A B
+S -> B A
+S -> S S
+S -> A C
+S -> B D
+C -> S B
+D -> S A
+A -> a
+B -> b
+X -> a
+end
+abab
+end

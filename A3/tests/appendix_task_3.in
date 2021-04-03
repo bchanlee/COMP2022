@@ -1,0 +1,15 @@
+efnfa-to-dfa
+q0,q1,q2,q3
+a,b
+q0
+q1,q3
+q0,a,q1
+q0,b,q1
+q0,b,q2
+q1,a,q1
+q1,a,q2
+q2,a,q0
+q2,b,q3
+q3,a,q0
+q3,a,q2
+end
