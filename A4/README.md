@@ -27,5 +27,5 @@ Input: sequence of lines containing the string **rightmost-derivation**, the CFG
 Output: sequence of lines representing a rightmost derivation, the string **end**
 
 #### Ambiguous
-Input: equence of lines containing the string **ambiguous**, the CFG in CNF,  several strings to check, the string **end** <br>
+Input: sequence of lines containing the string **ambiguous**, the CFG in CNF,  several strings to check, the string **end** <br>
 Output: 1 or 0 for each input string
